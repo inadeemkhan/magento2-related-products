@@ -1,4 +1,4 @@
-# Magento2 Linneo Member Discount
+# Magento2 Search Realated Product
 Free Magento 2 extension To show related product at Search result page and Product page | Nadeem Khan
 
 <img src="https://i.ibb.co/wwD2MY0/Magento2-search.png" alt="Magento2-search" border="0">
